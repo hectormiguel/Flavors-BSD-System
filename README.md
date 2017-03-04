@@ -1,2 +1,2 @@
 # Hector Martinez
-Systems & Computing: -Development -Infrastructure -Implementation -OS -Network Data and Internet -Hardware -Multimedia -Support -Training.
+Systems & Computing: -Development -Infrastructure -Implementation -Operating System -SSL/TLS -Web Server host -Networking -Hardware -Support -Training.
