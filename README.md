@@ -2,4 +2,4 @@
 HMS.
 
 ---------------------------------------------------------------------------------------------------------
-<a href="hectormiguel.github.io/blog.md">-blog-</a>
+<a href="http://hectormiguel.github.io/blog.md">-blog-</a>
