@@ -1,7 +1,5 @@
- ### Hola! Bienvenido al BLOG, me alegra que estes Aki.</H3>
-  
+ ### Hola! Bienvenido al BLOG, me alegra que estes Aki. ###
   <br>
-  
   18/10/17
   <br>
   ***"WOZ U" Proyecto de Sistema Educativo en programacion:***
