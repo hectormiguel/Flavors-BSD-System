@@ -1,5 +1,5 @@
 
-   <H3>Hola! Bienvenido, me alegra que estes Aki.</H3>
+   <H3>Hola! Bienvenido al BLOG, me alegra que estes Aki.</H3>
   <br>
   
   18/10/17
