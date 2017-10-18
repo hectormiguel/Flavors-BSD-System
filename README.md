@@ -3,7 +3,7 @@ HMS.
 
 ---------------------------------------------------------------------------------------------------------
 
-Hola! Bienvenido al BLOG, me alegra que estes "Aquí".
+Hola! Bienvenido al BLOG, me alegra que estes Aquí.
 
 <br>
 <br>
