@@ -1,13 +1,5 @@
  Hola! Bienvenido al BLOG, me alegra que estes Aki.
- 
-  <br>
-  18/10/17
-  <br>
-  ***"WOZ U" Proyecto de Sistema Educativo en programacion:***
-  <br>
-  -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
-  <br>
-Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
+
 <br>
 <br>
   17/10/17
