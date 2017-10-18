@@ -15,6 +15,7 @@ Hola! Bienvenido al BLOG, me alegra que estés Aquí.
   <br>
 Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 <br>
+<hr />
 <br>
   17/10/2017
 <br>
