@@ -7,7 +7,7 @@ Hola! Bienvenido al BLOG, me alegra que estés Aquí.
 
 <br>
 <br>
-  17/10/17
+  17/10/2017
 <br>
 ***"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.***
 <br>
