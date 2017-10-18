@@ -4,7 +4,7 @@
   
   18/10/17
   <br>
-  WOZ U. Proyecto de Sistema Educativo en programacion:
+  "WOZ U" Proyecto de Sistema Educativo en programacion:
   <br><br>
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
   <br>
