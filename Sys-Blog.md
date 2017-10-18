@@ -1,4 +1,5 @@
- ### Hola! Bienvenido al BLOG, me alegra que estes Aki. ###
+ Hola! Bienvenido al BLOG, me alegra que estes Aki.
+ 
   <br>
   18/10/17
   <br>
