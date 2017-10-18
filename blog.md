@@ -3,6 +3,14 @@
   <br>
   
   17/10/17
+  <br>
+  WOZ U. Proyecto de Sistema Educativo en programacion:
+  <br><br>
+  Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
+Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
+<br>
+<br>
+  17/10/17
 <br>
 "KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.
 <br><br>
