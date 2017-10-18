@@ -2,4 +2,4 @@
 HMS.
 
 ---------------------------------------------------------------------------------------------------------
-[-blog-](http://hectormiguel.github.io/Sys-Blog.md/)
+[-blog-](http://hectormiguel.github.io/Sys-Blog.md)
