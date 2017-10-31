@@ -24,4 +24,4 @@ Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI WPA2.
 <br/>
 Fuente: <a href="https://www.wired.com/story/krack-wi-fi-wpa2-vulnerability/">-WIRED-</a>
-gem 'jekyll-feed'
+
