@@ -7,8 +7,6 @@ Hola! Bienvenido al BLOG, me alegra que estés Aquí.
 <hr />
 <br>
 <br>
-  
-  <br>
   ***"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:***
   <br>
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
@@ -16,8 +14,6 @@ Hola! Bienvenido al BLOG, me alegra que estés Aquí.
 Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 <br>
 <hr />
-<br>
-  
 <br>
 ***"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.***
 <br>
