@@ -16,7 +16,7 @@ Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 <br>
 ***"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.***
 <br>
--Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI WPA2.
+-Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>
 Fuente: <a href="https://www.wired.com/story/krack-wi-fi-wpa2-vulnerability/">-WIRED-</a>
 
