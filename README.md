@@ -6,7 +6,6 @@ HMS.
 Hola! Bienvenido al BLOG, me alegra que estés Aquí.
 <hr />
 <br>
-<br>
   ***"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:***
   <br>
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
