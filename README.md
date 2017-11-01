@@ -7,7 +7,7 @@ Hola! Bienvenido al BLOG, me alegra que estés Aquí.
 <hr />
 <br>
 <br>
-  18/10/2017
+  18/10/
   <br>
   ***"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:***
   <br>
@@ -17,7 +17,7 @@ Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 <br>
 <hr />
 <br>
-  17/10/2017
+  17/10/
 <br>
 ***"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.***
 <br>
