@@ -4,7 +4,7 @@ HMS.
 ---------------------------------------------------------------------------------------------------------
 
 Hola! Bienvenido al BLOG, me alegra que estés Aquí. Para Donaciones por servicio prestado, 
-visitar el link. <a href="paypal.me/HectorMiguel36">-Donaciones.</a>
+visitar el link. <a href="http://paypal.me/HectorMiguel36/">-Donaciones.</a>
 <hr />
 <br>
 
