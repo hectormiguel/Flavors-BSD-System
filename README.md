@@ -6,7 +6,7 @@ HMS.
 <br>
 <hr/>
 ***Para Donaciones por servicio prestado, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
-Para transferencia tecnológica escribir a consulting@hectormiguel.net***
+y transferencia tecnológica escribir a consulting at Hector Miguel Dot Net***
 <hr />
 <br>
 
