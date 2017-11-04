@@ -1,4 +1,4 @@
--Consulting -Development -Infrastructure -SysOp -Server -Network -Hardware -Support -Training.
+-Consulting -Design -Development -Infrastructure -SysOp -Server -Network -Hardware -Support -Training.
 HMS.
 <hr/>
 
