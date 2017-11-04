@@ -26,7 +26,7 @@ Fuente: <a href="https://www.wired.com/story/krack-wi-fi-wpa2-vulnerability/">-W
 <br/>
 <hr/>
 
-<font color="TAN">Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
+<font color="Wheat">Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
 <br>
 En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
 <hr />
