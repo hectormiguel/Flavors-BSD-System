@@ -1,10 +1,11 @@
 -Consulting -Development -Infrastructure -SysOp -Server -Network -Hardware -Support -Training.
 HMS.
+<hr/>
 
----------------------------------------------------------------------------------------------------------
-
-Hola! Bienvenido al BLOG, me alegra que estés Aquí. Para Donaciones por servicio prestado, 
-visitar el link. <a href="http://paypal.me/HectorMiguel36/">-Donaciones.</a>
+***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
+<br>
+<hr/>
+***Para Donaciones por servicio prestado, visitar el link. *** <a href="https://paypal.me/HectorMiguel36/">Donación.</a>
 <hr />
 <br>
 
