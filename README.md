@@ -11,7 +11,7 @@ En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</fo
 <hr />
 <br>
 ***"Gusano Morris primer malware de la historia:***
-En el mes de Noviembre, surge un Malware auto replicable, "El Gusano Morris".
+En el mes de Noviembre, surge el pionero malware auto replicable, "El Gusano Morris".
 Afecto internet, anteriormente ARPANET. Autor Robert Tappan Morris. #rtm.
 No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert Morris Jr.
 <hr/>
