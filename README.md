@@ -25,8 +25,9 @@ Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 Fuente: <a href="https://www.wired.com/story/krack-wi-fi-wpa2-vulnerability/">-WIRED-</a>
 <br/>
 <hr/>
-_Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
+
+<font color="green">Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
 <br>
-A Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net_
+A Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
 <hr />
 
