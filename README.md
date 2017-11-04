@@ -5,10 +5,6 @@ HMS.
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
 <br>
 <hr/>
-***Para Donaciones por servicio prestado, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
-<br>
-Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net***
-<hr />
 <br>
 ***"Gusano Morris primer malware de la historia:***
 En el mes de Noviembre, surge el primer Malware auto replicable, "El Gusano Morris".
@@ -27,4 +23,9 @@ Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>
 Fuente: <a href="https://www.wired.com/story/krack-wi-fi-wpa2-vulnerability/">-WIRED-</a>
+<hr/>
+***Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
+<br>
+A Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net***
+<hr />
 
