@@ -5,10 +5,7 @@ HMS.
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
 <br>
 <hr/>
-<font color="Wheat">Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/25/">Donación.</a> 
-<br>
-En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
-<hr />
+
 <br>
 ***"Gusano Morris primer malware de la historia:***
 En el mes de Noviembre, surge el pionero malware auto replicable, "El Gusano Morris".
@@ -19,15 +16,23 @@ No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert 
   ***"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:***
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
   <br>
-Fuente. <a href="https://woz-u.com/">-WOZ U-</a>
+Fuente. -WOZ U-
 <br>
 <hr />
 <br>
 ***"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.***
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>
-Fuente: <a href="https://www.wired.com/story/krack-wi-fi-wpa2-vulnerability/">-WIRED-</a>
+Fuente: -WIRED-
 <br/>
 <hr/>
+<font color="Wheat">
+
+A sabienda de su modelo de caracter altruista nos es gratificante diriginos a ustedes en nombre de Hector Miguel Dot Net;
+con la confianza de que nuestras peticiones seran acogidas, solicite Servicio de Asistencia Técnica. Así estara contribuyendo
+al crecimiento curricular.  Visitar aquí el link.<a href="https://paypal.me/HectorMiguel36/25/">Donación.</a> 
+<br>
+En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
+<hr />
 
 
