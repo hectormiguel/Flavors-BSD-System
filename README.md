@@ -1,12 +1,8 @@
-<font color="Wheat">
--service management -Consulting -Design -Development -Infrastructure -SysOp -Server -Networking -Hardware -Support -Training.
-HMS.</font>
+<font color="Wheat">-service management -Consulting -Design -Development -Infrastructure -SysOp -Server -Networking -Hardware -Support -Training. HMS.</font>
 <hr/>
-
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
 <br>
 <hr/>
-
 <br>
 ***"Gusano Morris primer malware de la historia:***
 En el mes de Noviembre, surge el pionero malware auto replicable, "El Gusano Morris".
@@ -27,13 +23,9 @@ Fuente. -WOZ U-
 Fuente: -WIRED-
 <br/>
 <hr/>
-<font color="Wheat">
-
-A sabienda del modelo de caracter altruista, es gratificante diriginos a ustedes en nombre de Hector Miguel Dot Net;
+<font color="Wheat">A sabienda del modelo de caracter altruista, es gratificante diriginos a ustedes en nombre de Hector Miguel Dot Net;
 con la confianza de que nuestras peticiones serán acogidas. Solicite usted, Servicio de Asistencia Técnica. Así estara contribuyendo
 al servicio curricular y gestion del mismo. Visitar aquí el link.<a href="https://paypal.me/HectorMiguel36/25/">--Aporte.</a> 
-<br>
-En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
-<hr />
+<br>En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font><hr />
 
 
