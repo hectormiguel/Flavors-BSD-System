@@ -29,8 +29,8 @@ Fuente: -WIRED-
 <font color="Wheat">
 
 A sabienda de su modelo de caracter altruista es gratificante diriginos a ustedes en nombre de Hector Miguel Dot Net;
-con la confianza de que nuestras peticiones seran acogidas, solicite Servicio de Asistencia Técnica. Así estara contribuyendo
-al crecimiento curricular.  Visitar aquí el link.<a href="https://paypal.me/HectorMiguel36/25/">Donación.</a> 
+con la confianza de que nuestras peticiones seran acogidas. Solicite usted, Servicio de Asistencia Técnica. Así estara contribuyendo
+al crecimiento curricular. Visitar aquí el link.<a href="https://paypal.me/HectorMiguel36/25/">Donación.</a> 
 <br>
 En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
 <hr />
