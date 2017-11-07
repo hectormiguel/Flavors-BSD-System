@@ -1,4 +1,4 @@
-<font color="Wheat">-service management -Consulting -Design -Development -Infrastructure -SysOp -Server -Networking -Hardware -Support -Training. HMS.</font>
+<font color="Wheat">-Service management -Consulting -Design -Development -Infrastructure -SysOp -Server -Networking -Hardware -Support -Training. HMS.</font>
 <hr/>
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
 <br>
