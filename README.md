@@ -5,7 +5,7 @@ HMS.
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
 <br>
 <hr/>
-<font color="Wheat">Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel36/">Donación.</a> 
+<font color="Wheat">Para Donacion por Servicio de Asistencia Técnica, visitar el link. <a href="https://paypal.me/HectorMiguel3/25/">Donación.</a> 
 <br>
 En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font>
 <hr />
