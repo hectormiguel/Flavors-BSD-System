@@ -19,7 +19,7 @@ Fuente. -WOZ U-
 <br>
 <hr />
 <br>
-***"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.***
+<font color="yellowgreen">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>
 Fuente: -WIRED-
