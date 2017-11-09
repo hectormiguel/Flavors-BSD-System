@@ -6,20 +6,20 @@
 <br>
 <hr/>
 <br>
-***"Gusano Morris primer malware de la historia:***
-En el mes de Noviembre, surge el pionero malware auto replicable, "El Gusano Morris".
+<font color="Wheat">"Gusano Morris primer malware de la historia:</font>
+En el mes de Noviembre, surge el pionero Malware auto replicable, "El Gusano Morris".
 Afecto internet, anteriormente ARPANET. Autor Robert Tappan Morris. #rtm.
 No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert Morris Jr.
 <hr/>
 <br>
-  ***"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:***
+<font color="Wheat">"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:</font>
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
   <br>
 Fuente. -WOZ U-
 <br>
 <hr />
 <br>
-<font color="yellowgreen">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
+<font color="orange">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>
 Fuente: -WIRED-
