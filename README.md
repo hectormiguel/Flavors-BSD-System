@@ -1,5 +1,5 @@
-<font color="Wheat">
 El error de ser critico, pudiera ser interesante para el codigo malicioso
+<font color="Wheat">
 <hr>
 -Service management -Consulting -Design -Development -Infrastructure -SysOp 
 -Server -Networking -Hardware -Support -Training. HMS.</font>
