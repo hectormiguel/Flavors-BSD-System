@@ -1,8 +1,8 @@
-El error critico, pudiera ser interesante para el codigo malicioso
+El error critico, pudiera ser interesante para el codigo malicioso. ~hms
 <font color="Wheat">
 <hr>
 -Service management -Consulting -Design -Development -Infrastructure -SysOp 
--Server -Networking -Hardware -Support -Training. HMS.</font>
+-Server -Networking -Hardware -Support -Training.</font>
 <hr/>
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
 <br>
