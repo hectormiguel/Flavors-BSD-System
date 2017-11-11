@@ -5,7 +5,9 @@ El error critico pudiera ser interesante para el codigo malicioso. ~hms
 -Server -Networking -Hardware -Support -Training.</font>
 <hr/>
 <hr/>
+<hr/>
 ***Hola! Bienvenido al BLOG, me alegra que estés Aquí.*** 
+<hr/>
 <hr/>
 <hr/>
 <font color="Wheat">"Gusano Morris primer malware de la historia:</font>
