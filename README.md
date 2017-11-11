@@ -28,4 +28,3 @@ No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert 
 con la confianza en que la peticion sera acogida, obteniendo de esta parte, disponibilidad en Servicio de Asistencia Técnica en Sistemas & Computacion, contribuyendo así, al servicio curricular y gestion del mismo.<a href="https://paypal.me/HectorMiguel36/"> ---Haga aquí su aporte.---</a><br>En Transferencia tecnológica escribir a consulting at Hector Miguel Dot Net</font><hr/>
 <hr/>
 <hr/>
-<hr/>
