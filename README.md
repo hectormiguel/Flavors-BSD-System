@@ -14,6 +14,8 @@ El error critico pudiera ser interesante para el codigo malicioso. ~hms
 -VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios demoninado cliente remoto, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.
 <br/> 
 Una representacion textual es una empresa de sucursal, (1- Maquina Servidor VPN. Red-1 IP 169.254.1.1 Departamento de Computos. Sede Principal. (2. + Internet. (3- Maquina Cliente Remoto. (Sucursal). Red-2 IP 169.254.2.1. 
+<br>
+Si deseas saber más de la Guía de Infraestructura VPN. Escribir A: Consulting at Hector Miguel DotNet.
 <br>Fuente: ~hms.
 <hr>
 <font color="Wheat">"Gusano Morris primer malware de la historia:</font>
