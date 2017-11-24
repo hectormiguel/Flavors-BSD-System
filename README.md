@@ -10,6 +10,11 @@ El error critico pudiera ser interesante para el codigo malicioso. ~hms
 <hr/>
 <hr/>
 <hr/>
+<font color="Wheat">Sabes: Túnel de comunicación en Red Privada de datos. VPN. </font>
+Una VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios demoninado cliente remoto, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.</br> 
+Una representacion textual es una empresa de sucursal, (1- Maquina Servidor VPN. Red-1 IP 169.254.1.1 Departamento de Computos. Sede Principal. (2. + Internet. (3- Maquina Cliente Remoto. (Sucursal). Red-2 IP 169.254.2.1. 
+<br/>Fuente: ~hms.
+<hr/>
 <font color="Wheat">"Gusano Morris primer malware de la historia:</font>
 En el mes de Noviembre, surge el pionero Malware auto replicable, "El Gusano Morris".
 Afecto internet, anteriormente ARPANET. Autor Robert Tappan Morris. #rtm.
@@ -18,7 +23,7 @@ No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert 
 <font color="Wheat">"WOZ U" Proyecto de Sistema Educativo, diseñado para la programación de Software:</font>
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
   <br>Fuente. -WOZ U-
-<hr />
+<hr/>
 <font color="Wheat">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>Fuente: -WIRED-
