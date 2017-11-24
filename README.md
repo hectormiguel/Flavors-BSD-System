@@ -26,7 +26,7 @@ No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert 
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
   <br>Fuente. -WOZ U-
 <hr/>
-    <font color="Wheat">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
+<font color="Wheat">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>Fuente: -WIRED-
 <hr/>
