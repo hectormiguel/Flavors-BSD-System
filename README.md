@@ -14,7 +14,7 @@
 <br/> 
 Una representacion textual es una empresa de sucursal, (1- Maquina Servidor VPN. Red-1 IP 169.254.1.1 Departamento de Computos. Sede Principal. =======tunel==== (2. + Internet. ====tunel===== (3- Maquina Cliente Remoto. (Sucursal). Red-2 IP 169.254.2.1. 
 <br>
-Si deseas saber más de la Guía de Infraestructura VPN. Escribir A: Consulting at Hector Miguel DotNet.
+Si deseas saber más del manual de Infraestructura VPN. Escribir A: Consulting at Hector Miguel DotNet.
 <br>Fuente: ~hms.
 <hr>
 <font color="Wheat">"Gusano Morris primer malware de la historia:</font>
