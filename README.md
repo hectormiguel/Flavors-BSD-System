@@ -10,10 +10,12 @@ El error critico pudiera ser interesante para el codigo malicioso. ~hms
 <hr/>
 <hr/>
 <hr/>
-<font color="Wheat">Túnel de comunicación segura en Red Privada de datos.  </font><br/>
-Una VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios demoninado cliente remoto, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.<br/> 
+<font color="Wheat">Túnel de comunicación segura en Red Privada de datos.  </font>
+-VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios demoninado cliente remoto, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.
+<br/> 
 Una representacion textual es una empresa de sucursal, (1- Maquina Servidor VPN. Red-1 IP 169.254.1.1 Departamento de Computos. Sede Principal. (2. + Internet. (3- Maquina Cliente Remoto. (Sucursal). Red-2 IP 169.254.2.1. 
-<br/>Fuente: ~hms.<hr/>
+<br>Fuente: ~hms.
+<hr>
 <font color="Wheat">"Gusano Morris primer malware de la historia:</font>
 En el mes de Noviembre, surge el pionero Malware auto replicable, "El Gusano Morris".
 Afecto internet, anteriormente ARPANET. Autor Robert Tappan Morris. #rtm.
