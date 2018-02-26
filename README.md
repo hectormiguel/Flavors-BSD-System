@@ -11,10 +11,10 @@
 <hr/>
 <br>
 <font color="Wheat">Instalar Pelican en OpenBSD.</font>
-
+<br>
 Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica$
 <br>
-lo primero es descargar Pelican del repositorio publico del sistema.
+Lo primero es descargar Pelican del repositorio publico del sistema.
 <br>
 El paquete tiene dependencia de Python, por lo que requiere su respectiva insta$
 <br>
@@ -36,9 +36,8 @@ continuas aceptado los valores y usas el prefijo de su direccion Web. Ej. su-we$
 ahora solo queda subir los archivos del proyecto a su Servidor Web, con el coma$
 $ rsync -avc --delete output/ /var/www/tu-web-site
 <br>
-
 Listo!
-
+<hr>
 <br>
 <font color="Wheat">Túnel de comunicación segura en Red Privada de Datos.  </font>
 -VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios nominados clientes remotos, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.
