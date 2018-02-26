@@ -12,21 +12,22 @@
 <br/>
 <font color="Wheat">Instalar Pelican en OpenBSD.</font>
 <br/>
-Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica$
+Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica Web Site estatico.
 <br/>
 Lo primero es descargar Pelican del repositorio publico del sistema.
 <br/>
-El paquete tiene dependencia de Python, por lo que requiere su respectiva insta$
+El paquete tiene dependencia de Python, por lo que requiere su respectiva instalacion.
 <br/>
 <br/>
 Agregando a Pelican en la lista de paquetes del Sistema Operativo.
 <br/>
 $ pkg_add https://ftp.openbsd.org/pub/OpenBSD/6.x/packages/%a/pelican
 <br/>
-Pos instalacion procedes en crear un nuevo proyecto, este iniciando la  gestion$
+Pos instalacion procedes en crear un nuevo proyecto, este iniciando la  gestion del directorio.
+<br/>
 $ mkdir -p ~/projects/tu-web-site
 <br/>
-entrar al directorio del proyecto.
+Entrar al directorio del proyecto.
 <br/>
 $ cd ~/projects/tu-web-site
 <br/>
@@ -34,9 +35,9 @@ Ahora gestionar el skeleto del proyecto via el comando:
 <br/>
 $ pelican-quickstart
 <br>
-continuas aceptado los valores y usas el prefijo de su direccion Web. Ej. su-we$
+Continuas aceptado los valores y usas el prefijo de su direccion Web. Ej. su-web.net
 <br>
-ahora solo queda subir los archivos del proyecto a su Servidor Web, con el comando
+Ahora solo queda subir los archivos del proyecto a su Servidor Web, con el comando
 <br/>
 $ rsync -avc --delete output/ /var/www/tu-web-site
 <br>
