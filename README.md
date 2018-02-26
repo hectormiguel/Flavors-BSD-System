@@ -1,4 +1,4 @@
-<font color="Wheat">
+<font color="#DAF7A6">
 <hr>
 -Service management -Consulting -Design -Development -Infrastructure -SysOp 
 -Server -Networking -Hardware -Support -Training.</font>
