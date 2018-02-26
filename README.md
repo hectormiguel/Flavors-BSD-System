@@ -21,25 +21,25 @@ El paquete tiene dependencia de Python, por lo que requiere su respectiva instal
 <br/>
 Agregando a Pelican en la lista de paquetes del Sistema Operativo.
 <br/>
-<font color="#BFFF00">$ pkg_add https://ftp.openbsd.org/pub/OpenBSD/6.x/packages/%a/pelican</font>
+<font color="#9EFD38">$ pkg_add https://ftp.openbsd.org/pub/OpenBSD/6.x/packages/%a/pelican</font>
 <br/>
 Pos instalacion procedes en crear un nuevo proyecto, este iniciando la  gestion del directorio.
 <br/>
-<font color="#BFFF00">$ mkdir -p ~/projects/tu-web-site</font>
+<font color="#9EFD38">$ mkdir -p ~/projects/tu-web-site</font>
 <br/>
 Entrar al directorio del proyecto.
 <br/>
-<font color="#BFFF00">$ cd ~/projects/tu-web-site</font>
+<font color="#9EFD38">$ cd ~/projects/tu-web-site</font>
 <br/>
 Ahora gestionar el skeleto del proyecto via el comando:
 <br/>
-<font color="#BFFF00">$ pelican-quickstart</font>
+<font color="#9EFD38">$ pelican-quickstart</font>
 <br>
 Continuas aceptado los valores y usas el prefijo de su direccion Web. Ej. su-web.net
 <br>
 Ahora solo queda subir los archivos del proyecto a su Servidor Web, con el comando
 <br/>
-<font color="#BFFF00">$ rsync -avc --delete output/ /var/www/tu-web-site</font>
+<font color="#9EFD38">$ rsync -avc --delete output/ /var/www/tu-web-site</font>
 <br>
 Listo!
 <br/>
