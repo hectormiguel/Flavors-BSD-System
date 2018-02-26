@@ -9,7 +9,6 @@
 <hr/>
 <hr/>
 <hr/>
-<br/>
 ### <font color=" #DAF7A6">Instalar Pelican en OpenBSD.</font> ### 
 <br/>
 Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica Web Site estatico.
@@ -44,7 +43,6 @@ Ahora solo queda subir los archivos del proyecto a su Servidor Web, con el coman
 Listo!
 <br/>
 <hr>
-<br>
 ### <font color="#DAF7A6">Túnel de comunicación segura en Red Privada de Datos.</font> ### 
 -VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios nominados clientes remotos, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.
 <br/> 
