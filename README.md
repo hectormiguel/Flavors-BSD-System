@@ -10,7 +10,7 @@
 <hr/>
 <hr/>
 <br/>
-<font color=" #DAF7A6">Instalar Pelican en OpenBSD.</font>
+<font color=" #DAF7A6">### Instalar Pelican en OpenBSD.</font>
 <br/>
 Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica Web Site estatico.
 <br/>
