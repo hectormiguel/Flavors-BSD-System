@@ -10,7 +10,7 @@
 <hr/>
 <hr/>
 <br/>
-### <font color=" #DAF7A6">Instalar Pelican en OpenBSD.</font>
+### <font color=" #DAF7A6">Instalar Pelican en OpenBSD.</font> ### 
 <br/>
 Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica Web Site estatico.
 <br/>
@@ -45,7 +45,7 @@ Listo!
 <br/>
 <hr>
 <br>
-### <font color="#DAF7A6">Túnel de comunicación segura en Red Privada de Datos.</font>
+### <font color="#DAF7A6">Túnel de comunicación segura en Red Privada de Datos.</font> ### 
 -VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios nominados clientes remotos, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.
 <br/> 
 Una representacion textual es una empresa de sucursal, (1- Maquina Servidor VPN. Red-1 IP 169.254.1.1 Departamento de Computos. Sede Principal. =======tunel==== (2. + Internet. ====tunel===== (3- Maquina Cliente Remoto. (Sucursal). Red-2 IP 169.254.2.1. 
@@ -53,7 +53,7 @@ Una representacion textual es una empresa de sucursal, (1- Maquina Servidor VPN.
 Si deseas saber más del manual de Infraestructura VPN. Escribir A: Consulting at Hector Miguel DotNet.
 <br>Fuente: ~hms.
 <hr>
-### <font color="#DAF7A6">"Gusano Morris primer malware de la historia:</font>
+### <font color="#DAF7A6">"Gusano Morris primer malware de la historia:</font> ### 
 En el mes de Noviembre, surge el pionero Malware auto replicable, "El Gusano Morris".
 Afecto internet, anteriormente ARPANET. Autor Robert Tappan Morris. #rtm.
 No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert Morris Jr.
@@ -62,7 +62,7 @@ No fue intencion afectar los ordenadores y hacer que funcionaran lentos" Robert 
   -Inicitiva inspirada en Steve Wozniak, co-fundador de Apple Computer. 
   <br>Fuente. -WOZ U-
 <hr/>
-### <font color="#DAF7A6">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font>
+### <font color="#DAF7A6">"KRACK" Vulnerabilidad encontrada en la seguridad estandar de WI-FI.</font> ###
 -Permite al atacante acceder a redes de dipositivos interconectados a la Internet, a través del protocolo de acceso protegido WI-FI.
 <br/>Fuente: -WIRED-
 <hr/>
