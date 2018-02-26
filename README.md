@@ -10,11 +10,7 @@
 <hr/>
 <hr/>
 <br>
-Title:Instalar Pelican en OpenBSD.
-Date:2-3-2018
-Category:Implementacion
-Tags:OpenBSD, pelican, Python, Sysop, soporte, Sistema Operativo, Computacion, $
-Summary:Este post tiene como objetivo implementar Pelican en el sistema Operati$
+<font color="Wheat">Instalar Pelican en OpenBSD.</font>
 
 Este nuevo articulo en Hector Miguel SysOp, tiene como objetivo instalar Pelica$
 <br>
