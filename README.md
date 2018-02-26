@@ -20,24 +20,24 @@ El paquete tiene dependencia de Python, por lo que requiere su respectiva insta$
 <br>
 <br>
 Agregando a Pelican en la lista de paquetes del Sistema Operativo.
-###$ pkg_add https://ftp.openbsd.org/pub/OpenBSD/6.x/packages/%a/pelican
+$ pkg_add https://ftp.openbsd.org/pub/OpenBSD/6.x/packages/%a/pelican
 <br>
 Pos instalacion procedes en crear un nuevo proyecto, este iniciando la  gestion$
-###$ mkdir -p ~/projects/tu-web-site
+$ mkdir -p ~/projects/tu-web-site
 <br>
 entrar al directorio del proyecto.
-###$ cd ~/projects/tu-web-site
+$ cd ~/projects/tu-web-site
 <br>
 Ahora gestionar el skeleto del proyecto via el comando:
-###$ pelican-quickstart
+$ pelican-quickstart
 <br>
 continuas aceptado los valores y usas el prefijo de su direccion Web. Ej. su-we$
 <br>
 ahora solo queda subir los archivos del proyecto a su Servidor Web, con el coma$
-###$ rsync -avc --delete output/ /var/www/tu-web-site
+$ rsync -avc --delete output/ /var/www/tu-web-site
 <br>
 
-###Listo!
+Listo!
 
 <br>
 <font color="Wheat">Túnel de comunicación segura en Red Privada de Datos.  </font>
