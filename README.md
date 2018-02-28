@@ -41,6 +41,7 @@ Ahora solo queda subir los archivos del proyecto a su Servidor Web, con el coman
 <br>
 Listo!
 <br/>
+<br/>Edici162ón compartida del: -Blog Personal de Hector Miguel Sysop-
 <hr>
 ### <font color="#DAF7A6">Túnel de comunicación segura en Red Privada de Datos.</font> ### 
 -VPN o Red Privada Virtual es, una Red donde existe un equipo servidor y usuarios nominados clientes remotos, este permite conexion segura mediante un tunel de encapsulamiento de datos que viajan entre si, llevando como metodo Autenticidad de autorización, integridad de los datos y confidiencialidad para la privacidad.
